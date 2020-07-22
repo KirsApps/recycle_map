@@ -1,0 +1,144 @@
+{
+  "@@locale": "en",
+  "@@last_modified": "2020-07-19T12:15:39.107719",
+  "helpUsTitle": "Help us",
+  "@helpUsTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "mapScreenTitle": "Recycle Map",
+  "@mapScreenTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "articlesScreenTitle": "Articles",
+  "@articlesScreenTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "workingHoursTitle": "Working hours",
+  "@workingHoursTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "descriptionTitle": "Description",
+  "@descriptionTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "contactsTitle": "Contacts",
+  "@contactsTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "monday": "Mo",
+  "@monday": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "tuesday": "Tu",
+  "@tuesday": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "wednesday": "We",
+  "@wednesday": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "thursday": "Th",
+  "@thursday": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "friday": "Fr",
+  "@friday": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "saturday": "Sa",
+  "@saturday": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sunday": "Su",
+  "@sunday": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dayOff": "Day\nOff",
+  "@dayOff": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "errorText": "Something went wrong.\nPlease try again.",
+  "@errorText": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "glassWasteType": "Glass",
+  "@glassWasteType": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "paperWasteType": "Paper",
+  "@paperWasteType": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plasticWasteType": "Plastic",
+  "@plasticWasteType": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "metalWasteType": "Metal",
+  "@metalWasteType": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "hazardousWasteType": "Hazardous",
+  "@hazardousWasteType": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "batteryWasteType": "Battery",
+  "@batteryWasteType": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "appliancesWasteType": "Appliances",
+  "@appliancesWasteType": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lightBulbWasteType": "LightBulb",
+  "@lightBulbWasteType": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "otherWasteType": "Other",
+  "@otherWasteType": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "wasteTypesTitle": "Waste Types",
+  "@wasteTypesTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "helpUsScreenTitle": "Help Us",
+  "@helpUsScreenTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "helpUsScreenText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eget felis eget nunc lobortis mattis aliquam faucibus. Elementum nibh tellus molestie nunc non blandit massa enim nec. Massa placerat duis ultricies lacus sed turpis tincidunt id. Elit ut aliquam purus sit. Adipiscing elit ut aliquam purus sit. Vel eros donec ac odio tempor. Pulvinar sapien et ligula ullamcorper malesuada proin libero. Dui accumsan sit amet nulla facilisi morbi tempus iaculis urna. Purus in massa tempor nec feugiat nisl pretium fusce. Commodo ullamcorper a lacus vestibulum sed arcu. Nisi lacus sed viverra tellus in hac.",
+  "@helpUsScreenText": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noArticlesText": "No Articles",
+  "@noArticlesText": {
+    "type": "text",
+    "placeholders": {}
+  }
+}

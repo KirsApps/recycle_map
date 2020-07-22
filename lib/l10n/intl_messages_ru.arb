@@ -1,0 +1,144 @@
+{
+  "@@locale": "ru",
+  "@@last_modified": "2020-07-19T12:15:39.107719",
+  "helpUsTitle": "Помощь",
+  "@helpUsTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "mapScreenTitle": "Карта переработки",
+  "@mapScreenTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "articlesScreenTitle": "Статьи",
+  "@articlesScreenTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "workingHoursTitle": "Часы работы",
+  "@workingHoursTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "descriptionTitle": "Описание",
+  "@descriptionTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "contactsTitle": "Контакты",
+  "@contactsTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "monday": "Пн",
+  "@monday": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "tuesday": "Вт",
+  "@tuesday": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "wednesday": "Ср",
+  "@wednesday": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "thursday": "Чт",
+  "@thursday": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "friday": "Пт",
+  "@friday": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "saturday": "Сб",
+  "@saturday": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sunday": "Вс",
+  "@sunday": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dayOff": "Н/Р",
+  "@dayOff": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "errorText": "Что-то пошло не так.\nПожалуйста попробуйте еще раз.",
+  "@errorText": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "glassWasteType": "Стекло",
+  "@glassWasteType": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "paperWasteType": "Бумага",
+  "@paperWasteType": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plasticWasteType": "Пластик",
+  "@plasticWasteType": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "metalWasteType": "Металл",
+  "@metalWasteType": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "hazardousWasteType": "Опасные",
+  "@hazardousWasteType": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "batteryWasteType": "Батарейки",
+  "@batteryWasteType": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "appliancesWasteType": "Бытовая техника",
+  "@appliancesWasteType": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lightBulbWasteType": "Лампочки",
+  "@lightBulbWasteType": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "otherWasteType": "Другое",
+  "@otherWasteType": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "wasteTypesTitle": "Типы отходов",
+  "@wasteTypesTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "helpUsScreenTitle": "Помощь",
+  "@helpUsScreenTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "helpUsScreenText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eget felis eget nunc lobortis mattis aliquam faucibus. Elementum nibh tellus molestie nunc non blandit massa enim nec. Massa placerat duis ultricies lacus sed turpis tincidunt id. Elit ut aliquam purus sit. Adipiscing elit ut aliquam purus sit. Vel eros donec ac odio tempor. Pulvinar sapien et ligula ullamcorper malesuada proin libero. Dui accumsan sit amet nulla facilisi morbi tempus iaculis urna. Purus in massa tempor nec feugiat nisl pretium fusce. Commodo ullamcorper a lacus vestibulum sed arcu. Nisi lacus sed viverra tellus in hac.",
+  "@helpUsScreenText": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noArticlesText": "Статей нет",
+  "@noArticlesText": {
+    "type": "text",
+    "placeholders": {}
+  }
+}
